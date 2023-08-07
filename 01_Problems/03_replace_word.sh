@@ -2,11 +2,15 @@
 
 # script to find and replace the word or string in any file
 
-read -p "Enter file name in which you want to change the word : " file_name
-read -p "Enter the word you want to change : " current_word
-read -p "Enter the word you want to replace with : " new_word
+read -p "Enter file name : "  file
+read -p "Enter word to replace : " word_replace
+read -p "Enter new word : " new_word
 
+if [ ! -f "$file" ]
+then
+echo "File not found. Please enter a valid file name..!"
+fi
 
-sed -i "s/$current_word/$new_word/g" $file_name  
+sed -i "s/$word_replace/$new_word/g" "$file"
 
-echo "done"
+echo "Done"
