@@ -51,7 +51,7 @@ git clone https://github.com/kapil-malviya/bash-scripting.git
 Before you execute a bash script, you need to give the file permission to be executed. Use the chmod command to do this :
 
 ```
-$ chmod +x file_name
+chmod +x file_name
 ```
 
 **Run Scripts**
@@ -59,7 +59,7 @@ $ chmod +x file_name
 Once you've given the file permission to execute, you can run the script in shell :  
 
 ```
-$ ./file_name
+./file_name
 ```
 
 ## Bash Scripting Problems
