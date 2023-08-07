@@ -91,8 +91,4 @@ examples to share, please submit pull requests.
 
 ---
 
-We hope this repository empowers you to become proficient in bash scripting and harness the full potential of the command line. 
-
-###
-
 Happy scripting! 🚀
