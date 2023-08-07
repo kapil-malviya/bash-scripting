@@ -1,4 +1,4 @@
-# Bash Scripting Basics Repository
+# Bash Scripting Basics Repository 🚀
 
 This repository serves as a comprehensive guide and resource for learning the fundamental concepts of Linux commands and 
 bash scripting. Whether you're a beginner looking to grasp the essentials or an experienced user wanting to refresh your 
@@ -89,6 +89,3 @@ In addition to this repository, consider exploring other resources to enhance yo
 Contributions to this repository are welcome! If you have improvements, corrections, content to add or have additional 
 examples to share, please submit pull requests.
 
----
-
-Happy scripting! 🚀
